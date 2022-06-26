@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1652311069 source:c:\users\hp\desktop\musacshi\main.cpp
+	"musacshi.h"
+
+1652807165 c:\users\hp\desktop\musacshi\musacshi.h
+	<iostream>
+	<iomanip>
+
+1652310733 source:c:\users\hp\desktop\musacshi\musacshi.cpp
+	"musacshi.h"
+
+1653318976 source:c:\users\hp\desktop\projetmusacshi\musacshi\main.cpp
+	"musacshi.h"
+
+1653319433 c:\users\hp\desktop\projetmusacshi\musacshi\musacshi.h
+	<iostream>
+	<iomanip>
+
+1653226928 source:c:\users\hp\desktop\projetmusacshi\musacshi\musacshi.cpp
+	"musacshi.h"
+
+1653408948 source:c:\users\hp\desktop\projetmusacshi\musacshi0.2\musacshi.cpp
+	"musacshi.h"
+
+1653408947 c:\users\hp\desktop\projetmusacshi\musacshi0.2\musacshi.h
+	<iostream>
+	<iomanip>
+
+1653409324 source:c:\users\hp\desktop\projetmusacshi\musacshi0.2\main.cpp
+	"musacshi.h"
+
+1653492038 source:c:\users\hp\desktop\projetmusacshi\musacshi0.3\main.cpp
+	"musacshi.h"
+
+1653492386 c:\users\hp\desktop\projetmusacshi\musacshi0.3\musacshi.h
+	<iostream>
+	<iomanip>
+
+1653839903 source:c:\users\hp\desktop\projetmusacshi\musacshi0.4\main.cpp
+	"musacshi.h"
+
+1653510362 c:\users\hp\desktop\projetmusacshi\musacshi0.4\musacshi.h
+	<iostream>
+	<iomanip>
+
+1653498953 source:c:\users\hp\desktop\projetmusacshi\musacshi0.4\alphabeta.cpp
+	"musacshi.h"
+
+1654376374 source:c:\users\hp\desktop\projetmusacshi\musacshi0.5\main.cpp
+	"musacshi.h"
+
+1654378904 c:\users\hp\desktop\projetmusacshi\musacshi0.5\musacshi.h
+	<string>
+	<fstream>
+	<windows.h>
+	<iostream>
+	<iomanip>
+
+1654376577 source:c:\users\hp\desktop\projetmusacshi\musacshi0.5\alphabeta.cpp
+	"musacshi.h"
+
+1654378659 source:c:\users\hp\desktop\projetmusacshi\musacshi0.5\deplacement.cpp
+	"musacshi.h"
+
+1654377054 source:c:\users\hp\desktop\projetmusacshi\musacshi0.5\minimax.cpp
+	"musacshi.h"
+
+1654379306 source:c:\users\hp\desktop\projetmusacshi\musacshi0.5\plateau.cpp
+	"musacshi.h"
+
+1654379221 source:c:\users\hp\desktop\projetmusacshi\musacshi0.5\player.cpp
+	"musacshi.h"
+
+1654378591 source:c:\users\hp\desktop\projetmusacshi\musacshi0.5\interface.cpp
+	"musacshi.h"
+
+1654379806 source:c:\users\hp\desktop\musashiconsoleversionfinale\main.cpp
+	"include/musacshi.h"
+
+1654378904 c:\users\hp\desktop\musashiconsoleversionfinale\include\musacshi.h
+	<string>
+	<fstream>
+	<windows.h>
+	<iostream>
+	<iomanip>
+
+1654380138 source:c:\users\hp\desktop\musashiconsoleversionfinale\src\alphabeta.cpp
+	"../include/musacshi.h"
+
+1654380151 source:c:\users\hp\desktop\musashiconsoleversionfinale\src\deplacement.cpp
+	"../include/musacshi.h"
+
+1654380799 source:c:\users\hp\desktop\musashiconsoleversionfinale\src\interface.cpp
+	"../include/musacshi.h"
+
+1654380160 source:c:\users\hp\desktop\musashiconsoleversionfinale\src\minimax.cpp
+	"../include/musacshi.h"
+
+1654380168 source:c:\users\hp\desktop\musashiconsoleversionfinale\src\plateau.cpp
+	"../include/musacshi.h"
+
+1654380183 source:c:\users\hp\desktop\musashiconsoleversionfinale\src\player.cpp
+	"../include/musacshi.h"
+
+1654379806 source:c:\users\dell\desktop\musashiconsoleversionfinale\musashiconsoleversionfinale\main.cpp
+	"include/musacshi.h"
+
+1654382169 c:\users\dell\desktop\musashiconsoleversionfinale\musashiconsoleversionfinale\include\musacshi.h
+	<string>
+	<fstream>
+	<windows.h>
+	<iostream>
+	<iomanip>
+	"SDL_image.h"
+	"SDL_mixer.h"
+
+1654380138 source:c:\users\dell\desktop\musashiconsoleversionfinale\musashiconsoleversionfinale\src\alphabeta.cpp
+	"../include/musacshi.h"
+
+1654380151 source:c:\users\dell\desktop\musashiconsoleversionfinale\musashiconsoleversionfinale\src\deplacement.cpp
+	"../include/musacshi.h"
+
+1654380799 source:c:\users\dell\desktop\musashiconsoleversionfinale\musashiconsoleversionfinale\src\interface.cpp
+	"../include/musacshi.h"
+
+1654380160 source:c:\users\dell\desktop\musashiconsoleversionfinale\musashiconsoleversionfinale\src\minimax.cpp
+	"../include/musacshi.h"
+
+1654380168 source:c:\users\dell\desktop\musashiconsoleversionfinale\musashiconsoleversionfinale\src\plateau.cpp
+	"../include/musacshi.h"
+
+1654380183 source:c:\users\dell\desktop\musashiconsoleversionfinale\musashiconsoleversionfinale\src\player.cpp
+	"../include/musacshi.h"
+
